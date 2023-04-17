@@ -1122,6 +1122,11 @@
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
+"@modules/terms-and-conditions@file:./modules/terms-and-conditions":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
+
 "@react-native-async-storage/async-storage@1.17.9":
   version "1.17.9"
   resolved "https://registry.yarnpkg.com/@react-native-async-storage/async-storage/-/async-storage-1.17.9.tgz#2092d675fb9de05a3e71cdf8cefa9c5c4e4a3728"
